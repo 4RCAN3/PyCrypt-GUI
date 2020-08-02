@@ -1,12 +1,13 @@
 # PyCrypt
 PyCrypt is an encryption and decryption GUI program made using python.
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ---
 
 ## Installation
 
 ### Clone
-- Clone this repository to your local machine or download zip 
+- Clone this repository to your local machine or download the zip file 
 > Windows
 ```bash
 git clone https://github.com/Devansh3712/PyCrypt.git
