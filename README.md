@@ -19,7 +19,7 @@ git clone https://github.com/Devansh3712/PyCrypt.git
 ```
 
 ### Setup
--In order to run the program, the modules mentioned in requirements.txt must be there. In order to install these modules, follow the steps:
+- In order to run the program, the modules mentioned in requirements.txt must be there. In order to install these modules, follow the steps:
 > Windows
 ```bash
 python -m pip -r requirements.txt
