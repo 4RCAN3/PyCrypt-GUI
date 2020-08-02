@@ -1,0 +1,11 @@
+altgraph==0.17
+Babel==2.8.0
+future==0.18.2
+pefile==2019.4.18
+Pillow==7.2.0
+psutil==5.7.2
+PyInstaller==3.6
+pytz==2020.1
+pywin32==228
+pywin32-ctypes==0.2.0
+tkfilebrowser==2.3.2
