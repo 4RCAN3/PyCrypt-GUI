@@ -41,7 +41,7 @@ python pycrypt.py
 python3 pycrypt.py
 ```
 
-- Or you can either run the `pycrypt.exe` file ./dist/pycrypt/ or install it using PyScrypt installer
+- Or you can either run the `pycrypt.exe` file ./dist/ or install it using PyScrypt installer
 
 ---
 
