@@ -348,6 +348,10 @@ def cl1():
         blake2s()
     elif var18.get()==1:
         blake2b()
+    elif var19.get()==1:
+        base16e()
+    elif var20.get()==1:
+        base85e()
 
 #overall decode function for checkbuttons
 def cl2():
@@ -369,6 +373,10 @@ def cl2():
         ccd()
     elif var9.get()==1:
         vcd()
+    elif var19.get()==1:
+        base16d()
+    elif var20.get()==1:
+        base85d()
 
 #variables for checkbuttons
 var1=IntVar(root)

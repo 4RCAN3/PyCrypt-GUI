@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['pycrypt.py'],
-             pathex=['D:\\PyCrypt-local'],
+             pathex=['C:\\Users\\comp\\Desktop\\Devansh\\PyCrypt'],
              binaries=[],
              datas=[],
              hiddenimports=[],
