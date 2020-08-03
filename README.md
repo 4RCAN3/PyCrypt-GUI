@@ -24,11 +24,11 @@ git clone https://github.com/Devansh3712/PyCrypt.git
 - In order to run the program, the modules mentioned in requirements.txt must be there. In order to install these modules, follow the steps:
 > Windows
 ```bash
-python -m pip -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 > Linux
 ```shell
-python3 -m pip -r requirements.txt
+python3 -m pip3 install -r requirements.txt
 ```
 
 ---
@@ -44,7 +44,7 @@ python pycrypt.py
 python3 pycrypt.py
 ```
 
-- Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer
+- Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a Github release.
 
 ---
 
