@@ -17,7 +17,7 @@ git clone https://github.com/Devansh3712/PyCrypt.git
 ```
 > Linux
 ```shell
-git clone https://github.com/Devansh3712/PyCrypt.git
+$ git clone https://github.com/Devansh3712/PyCrypt.git
 ```
 
 ![g](https://user-images.githubusercontent.com/58616444/89152288-7b563980-d580-11ea-94e8-953ea102116d.gif)
@@ -30,7 +30,7 @@ python -m pip install -r requirements.txt
 ```
 > Linux
 ```shell
-python3 -m pip3 install -r requirements.txt
+$ python3 -m pip3 install -r requirements.txt
 ```
 
 ![Setup GIF](https://user-images.githubusercontent.com/58616444/89149648-93c35580-d57a-11ea-8d38-e63ee375d609.gif)
@@ -45,7 +45,7 @@ python pycrypt.py
 ```
 > Linux
 ```shell
-python3 pycrypt.py
+$ python3 pycrypt.py
 ```
 
 - Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank">Github release</a>.
