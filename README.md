@@ -1,5 +1,3 @@
-![main](https://user-images.githubusercontent.com/58616444/89149689-a9d11600-d57a-11ea-97a4-9c59e9fc30a6.PNG)
-
 # PyCrypt
 PyCrypt is an encryption and decryption GUI program made using python.
 
