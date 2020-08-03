@@ -51,6 +51,11 @@ python3 pycrypt.py
 - Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank">Github release</a>.
 
 ---
+## Screenshot
+
+![Screenshot_2020-08-03_12-00-53](https://user-images.githubusercontent.com/58616444/89153626-e30d8400-d582-11ea-9ae6-371e466330b9.png)
+
+---
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
