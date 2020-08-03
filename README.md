@@ -20,6 +20,8 @@ git clone https://github.com/Devansh3712/PyCrypt.git
 git clone https://github.com/Devansh3712/PyCrypt.git
 ```
 
+![g](https://user-images.githubusercontent.com/58616444/89152288-7b563980-d580-11ea-94e8-953ea102116d.gif)
+
 ### Setup
 - In order to run the program, the modules mentioned in requirements.txt must be there. In order to install these modules, follow the steps:
 > Windows
