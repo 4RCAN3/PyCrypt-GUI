@@ -4,6 +4,7 @@ PyCrypt is an encryption and decryption GUI program made using python.
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 [![Run on Repl.it](https://repl.it/badge/github/Devansh3712/PyCrypt)](https://repl.it/github/Devansh3712/PyCrypt)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0)
+[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 ---
