@@ -48,7 +48,7 @@ python pycrypt.py
 python3 pycrypt.py
 ```
 
-- Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank"></a>.
+- Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank">Github release</a>.
 
 ---
 
