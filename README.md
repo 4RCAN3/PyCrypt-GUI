@@ -1,3 +1,5 @@
+<a href="https://devansh3712.github.io/PyCrypt/"><img src="https://github.com/Devansh3712/PyCrypt/blob/master/res/main.PNG" title="PyCrypt" alt="PyCrypt"></a>
+
 # PyCrypt
 PyCrypt is an encryption and decryption GUI program made using python.
 
@@ -31,6 +33,8 @@ python -m pip install -r requirements.txt
 python3 -m pip3 install -r requirements.txt
 ```
 
+![Setup GIF](https://github.com/Devansh3712/PyCrypt/blob/master/res/i.gif)
+
 ---
 
 # Usage
@@ -44,7 +48,7 @@ python pycrypt.py
 python3 pycrypt.py
 ```
 
-- Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a Github release.
+- Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank"></a>.
 
 ---
 
