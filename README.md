@@ -55,7 +55,7 @@ $ python3 pycrypt.py
 ---
 ## Screenshot
 
-![Screenshot_2020-08-03_12-00-53](https://user-images.githubusercontent.com/58616444/89153626-e30d8400-d582-11ea-9ae6-371e466330b9.png)
+![new](https://user-images.githubusercontent.com/58616444/89252033-3db3e800-d636-11ea-82b4-23fe43480256.png)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
