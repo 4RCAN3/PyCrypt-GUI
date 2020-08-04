@@ -4,6 +4,7 @@ import tkinter.messagebox
 from tkinter.ttk import *
 import base64
 import hashlib
+import pyperclip
 
 #master variable, window options
 root=Tk()
@@ -310,6 +311,10 @@ def dhex():
     global result
     result.set(str(c))
 
+#copy to clipboard
+def copy_to_clipboard():
+    pyperclip.copy(result.get())
+
 #overall encode function for checkbuttons
 def cl1():
     if var1.get()==1:
@@ -434,6 +439,7 @@ text2=Entry(root,textvariable=key)
 button4=Button(root,text='Info',command=hello)
 label6=Label(root,text='Final String: ')
 label7=Label(image=img)
+button5=Button(root,text='Copy',command=copy_to_clipboard)
 
 #labels, texts and buttons alignment
 label7.grid(row=1,column=2,columnspan=2,rowspan=2,sticky=W+N+E+S)
@@ -468,6 +474,7 @@ label3.grid(row=10,column=1)
 label6.grid(row=10,column=0)
 button3.grid(row=11,column=3)
 button4.grid(row=11,column=0)
+button5.grid(row=10,column=2,sticky=W)
 
 #mainloop
 root.mainloop()
