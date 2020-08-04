@@ -2,7 +2,7 @@ from tkinter import *
 class gui:
     def __init__(self,master):
         self.master=master
-        master.title("Cryption")
+        master.title("PyCrypt")
 
         self.string=StringVar(master)
         self.result=StringVar(master)
