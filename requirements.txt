@@ -7,6 +7,4 @@ psutil==5.7.2
 PyInstaller==3.6
 pyperclip==1.8.0
 pytz==2020.1
-pywin32==228
-pywin32-ctypes==0.2.0
 tkfilebrowser==2.3.2
