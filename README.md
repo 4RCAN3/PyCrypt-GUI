@@ -12,7 +12,7 @@ PyCrypt is an encryption and decryption GUI program made using python.
 ## Installation
 
 ### Clone
-- Clone this repository to your local machine or download the zip file 
+- Clone this repository to your local machine or download it as a zip file 
 > Windows
 ```bash
 git clone https://github.com/Devansh3712/PyCrypt.git
@@ -50,7 +50,7 @@ python pycrypt.py
 $ python3 pycrypt.py
 ```
 
-- Or you can either run the `pycrypt.exe` file in ./dist/ or install it using PyScrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank">Github release</a>.
+- Or you can install it using PyCrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank">Github release</a>.
 
 ---
 ## Screenshot
