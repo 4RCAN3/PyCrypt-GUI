@@ -39,7 +39,7 @@ $ python3 -m pip3 install -r requirements.txt
 
 ---
 
-# Usage
+## Usage
 - Now, you can either run the pycrypt.py file
 > Windows
 ```bash
