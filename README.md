@@ -53,6 +53,7 @@ $ python3 pycrypt.py
 - Or you can install it using PyCrypt installer, available as a <a href="https://github.com/Devansh3712/PyCrypt/releases/tag/v1.0" target="_blank">Github release</a>.
 
 ---
+
 ## Screenshot
 
 ![new](https://user-images.githubusercontent.com/58616444/89252033-3db3e800-d636-11ea-82b4-23fe43480256.png)
